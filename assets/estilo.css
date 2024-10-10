@@ -10,7 +10,7 @@
 }
 
 .cartao{
-    color: ;
+   
     background-color: #105158;
    border-radius: 20px;
    height: 20rem;
@@ -32,7 +32,7 @@ transform: rotateY(180deg);
 
 .cartao--conteudo{
     transform-style: preserve-3d;
-    transition: tranform 300m ease-in-out;
+    transition: transform 300m ease-in-out;
 }
 
 .cartao--pergunta, .cartao--resposta{
