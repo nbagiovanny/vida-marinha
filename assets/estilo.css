@@ -35,6 +35,14 @@ transform: rotateY(180deg);
     transition: tranform 300m ease-in-out;
 }
 
+.cartao--pergunta, .cartao--resposta{
+    backface-visibility: hidden;
+}
+
+.cartao--resposta{
+    transform: rotateY(180deg);
+}
+
 footer{
     background: black;
     color: white;
