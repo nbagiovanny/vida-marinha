@@ -29,6 +29,12 @@ transform: rotateY(180deg);
 .cartao--resposta{
     font-size: 20px;
 }
+
+.cartao--conteudo{
+    transform-style: preserve-3d;
+    transition: tranform 300m ease-in-out;
+}
+
 footer{
     background: black;
     color: white;
