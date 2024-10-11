@@ -1,1 +1,6 @@
-alert("hello world")
+function criarCarto(pergunta, repota){
+    console.log("pergunta,respota")
+
+}
+
+crirCartoao()
