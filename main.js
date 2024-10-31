@@ -1,6 +1,6 @@
-function criarCarto(pergunta, repota){
-    console.log("pergunta,respota")
+function criarCartao(pergunta, repota){
+    let conteudo = document.getElementById("conteudo")
 
 }
 
-criarCartao()
+criarCartao(1,2)
