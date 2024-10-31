@@ -3,4 +3,4 @@ function criarCarto(pergunta, repota){
 
 }
 
-crirCartoao()
+criarCartao()
